@@ -1,0 +1,3 @@
+/Users/omarasker/Documents/CodSoft/cmake-build-debug/CMakeFiles/CodSoft.dir
+/Users/omarasker/Documents/CodSoft/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omarasker/Documents/CodSoft/cmake-build-debug/CMakeFiles/rebuild_cache.dir
